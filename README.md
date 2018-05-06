@@ -1,8 +1,16 @@
-# demo_flutter
+# Age Calculator
+Age Calculator Application using Flutter.
 
-A new Flutter project.
+### Widgets Used:
+- Date Picker
+- Outlined Button
 
-## Getting Started
+## Requirements:
+- Flutter Installed. [Guide to Installing Flutter](https://flutter.io)
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+# Getting Started
+Simply Clone the Project and run ``` flutter run```
+
+## SnapShot
+![Age Calculator](snap.png?raw=true 'Flutter Age Calculator')
+
