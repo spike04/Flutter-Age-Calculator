@@ -65,7 +65,7 @@ class _HomePageState extends State<HomePage>
         setState(() {});
       });
     });
-    animationController.forward();
+    animationController.forward(from: 0.0);
   }
 
   @override
